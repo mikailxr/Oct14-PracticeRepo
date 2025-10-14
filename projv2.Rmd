@@ -8,6 +8,10 @@ output:
     toc_float: true
 ---
 
+buddy she said the hw_2, not the project are we deaduzzzz..
+
+did you fr reference 3 libraries that are part of the tidyverse package.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 library(tidyverse)
@@ -230,5 +234,6 @@ This exploratory analysis examined how squad structural characteristics - specif
 **Future Research:** Future analyses could incorporate financial data such as squad market values or wage bills to examine whether wealthier clubs can leverage squad rotation and experience more effectively. Additionally, examining how these relationships differ across leagues or competition levels would provide valuable insights into context-dependent effects of squad structure on performance. Investigating whether the optimal balance between age and rotation changes over time as the sport evolves would also be valuable.
 
 ## References
+
 
 Football-Data.co.uk. (2024). *English Football Results and Betting Odds*. Retrieved from https://www.football-data.co.uk/
