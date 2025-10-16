@@ -17,7 +17,7 @@ library(knitr)
 ```
 
 ## Introduction
-
+this is a new thing
 Professional soccer has evolved dramatically over the past decade, with clubs increasingly relying on data analytics to gain competitive advantages. Understanding how squad characteristics relate to on-field success can provide valuable insights for team management, player recruitment, and tactical planning.
 
 halloooohalloooo
@@ -233,3 +233,4 @@ This exploratory analysis examined how squad structural characteristics - specif
 
 
 Football-Data.co.uk. (2024). *English Football Results and Betting Odds*. Retrieved from https://www.football-data.co.uk/
+
