@@ -1,4 +1,4 @@
----
+ ---
 title: "Exploring Squad Structure and Performance in Professional Soccer"
 author: "Mikail Rizvi"
 date: "2025-10-10"
@@ -20,7 +20,7 @@ library(knitr)
 
 Professional soccer has evolved dramatically over the past decade, with clubs increasingly relying on data analytics to gain competitive advantages. Understanding how squad characteristics relate to on-field success can provide valuable insights for team management, player recruitment, and tactical planning.
 
-
+halloooohalloooo
 
 This analysis examines match results and player statistics from European soccer leagues to investigate how squad structure influences team performance. The data comes from [football-data.co.uk](https://www.football-data.co.uk/), which provides comprehensive match statistics and player performance data.
 
@@ -230,5 +230,6 @@ This exploratory analysis examined how squad structural characteristics - specif
 **Future Research:** Future analyses could incorporate financial data such as squad market values or wage bills to examine whether wealthier clubs can leverage squad rotation and experience more effectively. Additionally, examining how these relationships differ across leagues or competition levels would provide valuable insights into context-dependent effects of squad structure on performance. Investigating whether the optimal balance between age and rotation changes over time as the sport evolves would also be valuable.
 
 ## References
+
 
 Football-Data.co.uk. (2024). *English Football Results and Betting Odds*. Retrieved from https://www.football-data.co.uk/
